@@ -9,6 +9,7 @@ export default function PremiumPage(preview) {
     <>
       <Layout preview={preview}>
           <Head>
+            <link rel="icon" href="/logo-main.svg" type="image/x-icon"></link>
             <title>Premium design goods</title>
           </Head>
           <Container>
