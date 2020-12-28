@@ -12,7 +12,6 @@ export default function Index({ preview, allDatas }) {
     <>
       <Layout preview={preview}>
         <Head>
-          <link rel="icon" href="/logo-main.svg" type="image/x-icon"></link>
           <title>Free Icons: Line, Glyph, Flat Style on Pixelbuddha with {CMS_NAME}</title>
         </Head>
         <Container>        

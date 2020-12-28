@@ -9,7 +9,6 @@ export default function JournalPage(preview) {
     <>
       <Layout preview={preview}>
           <Head>
-            <link rel="icon" href="/logo-main.svg"></link>
             <title>Free Icons: Line, Glyph, Flat Style on Pixelbuddha</title>
           </Head>
           <Container>

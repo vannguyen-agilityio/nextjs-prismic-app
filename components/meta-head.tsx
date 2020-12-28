@@ -4,6 +4,7 @@ import { CMS_NAME, HOME_OG_IMAGE_URL } from '../utils/constants'
 export default function MetaHead() {
   return (
     <Head>
+      <link rel="icon" href="/favicon.png" />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"></meta>
       <meta name="theme-color" content="#000" />
